@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\IceSkatingRing\bin\Debug\net8.0-windows\IceSkatingRing.exe
+C:\Users\HELLO\Source\Repos\IceSkatingRing\bin\Debug\net8.0-windows\IceSkatingRing.deps.json
+C:\Users\HELLO\Source\Repos\IceSkatingRing\bin\Debug\net8.0-windows\IceSkatingRing.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\IceSkatingRing\bin\Debug\net8.0-windows\IceSkatingRing.dll
+C:\Users\HELLO\Source\Repos\IceSkatingRing\bin\Debug\net8.0-windows\IceSkatingRing.pdb
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.frmSkating.resources
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.Resources.resources
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.dll
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\refint\IceSkatingRing.dll
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.pdb
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\IceSkatingRing.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\IceSkatingRing\obj\Debug\net8.0-windows\ref\IceSkatingRing.dll
